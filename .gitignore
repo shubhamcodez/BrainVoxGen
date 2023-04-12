@@ -3,12 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
+*.rar
+logs/
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
+Dataset/*
 build/
 develop-eggs/
 dist/
@@ -22,7 +24,6 @@ sdist/
 var/
 share/
 wheels/
-Dataset/*
 share/python-wheels/
 *.egg-info/
 .installed.cfg
