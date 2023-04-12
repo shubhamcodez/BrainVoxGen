@@ -1,0 +1,10 @@
+pyyaml 
+h5py
+tensorflow>=2.0
+numpy
+nibabel
+matplotlib
+nilearn
+ipython
+scipy 
+simpleitk
