@@ -9,3 +9,5 @@ nilearn
 ipython
 scipy 
 simpleitk
+pydot
+graphviz
